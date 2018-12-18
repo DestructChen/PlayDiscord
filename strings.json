@@ -1,0 +1,10 @@
+{
+    "en":{
+	"searchstring": "search term",
+	"toomany":"To many hits ({num}). ",
+	"nomatches":"No matches for _{term}_. ",
+	"senddm":"Send direct message to view all. ",
+	"selectmap":"Select map: !map _number_ ",
+	"refinequery":"\nPlease refine your search and try again. Try using the \\* wildcard character eg !map abc\\*xyz "
+    }
+}

@@ -1,0 +1,6 @@
+
+{
+    "ignore":["*.json","project.sqlite","project.sqlite-shm","project.sqlite-wal"],
+	"verbose":true,
+"ext":"js"
+}
